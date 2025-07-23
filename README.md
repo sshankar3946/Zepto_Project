@@ -86,3 +86,15 @@ Ranked top 5 categories offering highest average discounts
 
 Grouped products based on weight into Low, Medium, and Bulk categories
 
+KEY SKILLS DEMONSTRATED
+
+•	SQL Aggregations, Case Statements
+•	Data Cleaning and Transformation
+•	Trend Analysis and Profitability Metrics
+•	Business Problem Solving and Root Cause Thinking
+•	Reporting and Storytelling using data
+•	Git/GitHub for version control and portfolio building
+
+INFO
+
+Shiv Shankar 📧 kulharishivshankar@gmail.com 📍 Delhi, India
